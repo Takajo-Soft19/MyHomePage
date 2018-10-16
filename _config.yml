@@ -2,4 +2,4 @@ theme: jekyll-theme-slate
 title: Github Pages チュートリアル
 description: 自己紹介　hoge hoge
 github:
-  is_project_page: false
+  is_project_page: true
